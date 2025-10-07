@@ -105,8 +105,8 @@ Interfaz simple para visualizar los productos registrados e insertar nuevos.
 1. Clona el repositorio
 
    ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/bskcfv/ListarBsk.git
+   cd my_list
    ```
 
 2. Instala las dependencias
