@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 🛍️ Proyecto API de Productos
 
 Este proyecto implementa una API simple para la gestión de productos, con conexión a una base de datos **PostgreSQL**.  
@@ -129,8 +125,3 @@ Interfaz simple para visualizar los productos registrados e insertar nuevos.
 Desarrollado por **[Cristian Valderrama]**
 💼 Proyecto académico / demostrativo de integración **Next.js + PostgreSQL**
 
----
-
-```
-
-```
