@@ -5,11 +5,19 @@ Permite **consultar** e **insertar** productos desde una interfaz frontend desar
 
 ---
 
+> 🖼️ **Demostración en acción**
+
+<p align="center">
+  <img src="docs/demo.gif" alt="Demostración del funcionamiento" width="700">
+</p>
+
+---
+
 ## 🚀 Tecnologías Usadas
 
-- **Next.js** (Frontend + API Routes)
-- **PostgreSQL (pg)** (Base de datos)
-- **JavaScript (ES6+)**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
