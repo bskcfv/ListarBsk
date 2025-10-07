@@ -106,7 +106,7 @@ Interfaz simple para visualizar los productos registrados e insertar nuevos.
 
    ```bash
    git clone https://github.com/bskcfv/ListarBsk.git
-   cd my_list
+   cd ListarBsk
    ```
 
 2. Instala las dependencias
